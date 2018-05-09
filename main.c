@@ -1,5 +1,5 @@
 #include <gtk/gtk.h>
-#include "logicInterfaz.h"
+// #include "logicInterfaz.h"
 
 #define bufSize 1024
 
